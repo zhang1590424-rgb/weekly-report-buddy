@@ -21,7 +21,7 @@ description: >
    - 提取：已完成任务、进行中任务、任务标题
 
 3. 近期文档：
-   - 命令：`lark-cli docs +search --query "" --count 20`
+   - 命令：`lark-cli docs +search --query "" --page-size 20`
    - 提取：本周创建或修改的文档标题
 
 ## 内容生成
