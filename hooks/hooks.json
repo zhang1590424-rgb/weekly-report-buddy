@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/scripts/sensitive-scan.sh",
+            "statusMessage": "正在扫描敏感信息..."
+          }
+        ]
+      }
+    ]
+  }
+}

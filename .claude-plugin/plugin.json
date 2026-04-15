@@ -1,0 +1,9 @@
+{
+  "name": "weekly-report-buddy",
+  "description": "从飞书日历/任务/文档自动汇总周报，敏感信息审查后输出为飞书文档",
+  "version": "1.0.0",
+  "author": {
+    "name": "Your Name"
+  },
+  "keywords": ["weekly-report", "feishu", "lark", "productivity"]
+}
